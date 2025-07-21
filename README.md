@@ -1,6 +1,6 @@
 # FDRL-MHAD
 
-We promise that once our paper is accepted, our code will be published.
+Code is being organized. Will be released soon, stay tuned!
 
 Dataset
 UTD-MHAD:https://personal.utdallas.edu/~kehtar/UTD-MHAD.html
